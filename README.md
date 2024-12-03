@@ -64,7 +64,6 @@ For further resources related to Open Source Quantum Software Projects, please c
 - [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) - Foundational course on quantum information and computation.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) - Learn about the benefits quantum technologies can provide to machine learning.
-- [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
 - [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) - Learn the principles and promises behind developments in quantum computers and quantum internet and how they will impact our future.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
 
